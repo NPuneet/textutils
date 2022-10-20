@@ -4,5 +4,5 @@
  ---
  ### Home Page 
  ![Image Link](https://github.com/NPuneet/textutils/blob/main/website%20preview/textutilityproject.png) 
- [Link to website](https://npuneet.github.io/textutils/) - https://npuneet.github.io/textutils/
+ # [Link to website](https://npuneet.github.io/textutils/) - https://npuneet.github.io/textutils/
  ---
